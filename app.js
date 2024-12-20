@@ -13,7 +13,7 @@ console.log(fixedPrice);
 let Rice = 50;
  rice= 70;
  rice = 90;
-console.log(potato);
+console.log(rice);
 
 const price = 130;
 console.log(price);
