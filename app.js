@@ -17,5 +17,12 @@ console.log(rice);
 
 const price = 130;
 console.log(price);
+// Data type
 console.log(typeof 130);
 console.log(typeof 'Mejbah Morsalin');
+let doYouEatBiriyani = true;
+console.log(typeof doYouEatBiriyani);
+let a;
+console.log(a);
+let result = 130 * 'Mejbah Morsalin';
+console.log(result)
