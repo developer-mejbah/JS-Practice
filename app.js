@@ -26,3 +26,5 @@ let a;
 console.log(a);
 let result = 130 * 'Mejbah Morsalin';
 console.log(result)
+
+// String Concatination and Coartion
